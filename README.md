@@ -1,6 +1,8 @@
-# bmi
+[![Codembs](https://codembs.com/images/Codembs1.png)](https://codembs.com)
 
-A new Flutter project.
+# BMI Application
+
+It is a BMI Application which shows your BMI using your Weight and Height
 
 ## Getting Started
 
